@@ -1,15 +1,15 @@
 # Flappy_Bird - a practice implementation of reinforcement learning with PARL framework
 
 ## Information
-This is a practice project of reinforcement learning. A Deep Q-Network (DQN) model was trained with PARL framework to play the game Flappy Bird. Optimization of the parameter settings or longer training time may be necessary to obtain a better score.
+This is a practice project of reinforcement learning. A Deep Q-Network (DQN) model was trained with PARL framework to play the game Flappy Bird. Modification of the parameter settings or longer training time may be necessary to obtain a better score.
 
-###### Put all files under the same directory.
+### Put all files under the same directory.
 
-###### Train and evaluation:
+### Train and evaluation:
 ```
 python train.py
 ```
-###### Test:
+### Test:
 ```
 python test.py
 ```
