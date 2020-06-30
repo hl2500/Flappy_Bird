@@ -1,7 +1,7 @@
 # Flappy_Bird - a practice implementation of reinforcement learning with PARL framework
 
 ## Information
-This is a practice project of reinforcement learning. A Deep Q-Network (DQN) agent was trained with PARL framework to play the game Flappy Bird. Parameter settings may be modified to obtain a better model.
+This is a practice project of reinforcement learning. A Deep Q-Network (DQN) model was trained with PARL framework to play the game Flappy Bird. Parameter settings may be modified to obtain better score.
 
 ## Requirements
 1. paddlepaddle: https://github.com/PaddlePaddle/Paddle
