@@ -15,7 +15,6 @@ GAMMA = 0.99
 
 game = FlappyBird()
 env = PLE(game, fps=30, display_screen=False)
-env.init()
 
 action_dim = len(env.getActionSet())
 obs_shape = len(env.getGameState())
@@ -38,6 +37,7 @@ agent.restore(save_path)
 def evaluate(agent):
     eval_reward = []
     for i in range(5):
+        env.init()
         obs = list(env.getGameState().values())
         episode_reward = 0
         while True:
