@@ -1,5 +1,4 @@
-# Flappy_Bird
-# A practice implementation of reinforcement learning with PARL framework
+# Flappy_Bird - a practice implementation of reinforcement learning with PARL framework
 
 ## Requirements
 1. paddlepaddle: https://github.com/PaddlePaddle/Paddle
