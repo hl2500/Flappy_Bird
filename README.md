@@ -3,7 +3,7 @@
 ## Information
 This is a practice project of reinforcement learning. A Deep Q-Network (DQN) model was trained with PARL framework to play the game Flappy Bird. Parameter settings may be modified to obtain better score.
 
-![test](https://user-images.githubusercontent.com/49323647/86071985-8fbd8880-ba4e-11ea-916c-877ad533faa2.gif)
+![test](https://user-images.githubusercontent.com/49323647/86072375-70732b00-ba4f-11ea-95e8-576800c71fa1.gif)
 
 ## Requirements
 1. paddlepaddle: https://github.com/PaddlePaddle/Paddle
