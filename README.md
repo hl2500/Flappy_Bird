@@ -9,7 +9,7 @@ This is a practice project of reinforcement learning. A Deep Q-Network (DQN) mod
 ```
 python train.py
 ```
-##### Test:
+##### Test and display:
 ```
 python test.py
 ```
